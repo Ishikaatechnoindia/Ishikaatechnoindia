@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ishikaatechnoindia
 - 👀 My Name is Ishikaa Shaw
 - 🌱 I’m a Learner
-- 💞️ I’m currently learning in Techno India University
+- 💞️ I’m Currently learning in Techno India University
 - 📫 This is My Github Account.
 
 
